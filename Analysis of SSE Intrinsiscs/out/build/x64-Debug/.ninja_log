@@ -1,0 +1,5 @@
+# ninja log v5
+2	215	6425385301934868	build.ninja	1dd11d4b777e4f61
+0	470	6425384609349738	Analysis of SSE Intrinsiscs/CMakeFiles/CMakeTarget.dir/Analysis_of_SSE_Intrinsiscs.cpp.obj	9da1ec6155746cc2
+470	591	6425384610309728	Analysis of SSE Intrinsiscs/CMakeTarget.exe	e2bea3c3358b2f98
+3	463	6425384609269728	Analysis of SSE Intrinsiscs/CMakeFiles/CMakeTarget.dir/Fourier_Transform/FourierTransform.cpp.obj	ffe06e485ed617bf
