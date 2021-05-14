@@ -4,6 +4,6 @@
 cmake_minimum_required (VERSION 3.8)
 
 # Add source to this project's executable.
-add_executable (CMakeTarget "Analysis of SSE Intrinsiscs.cpp" "Analysis of SSE Intrinsiscs.h" "Fourier Transform/FourierTransform.cpp" "Fourier Transform/FourierTransform.h" )
+add_executable (CMakeTarget "Analysis of SSE Intrinsiscs.cpp" "Analysis of SSE Intrinsiscs.h" "Fourier Transform/FourierTransform.cpp" "Fourier Transform/FourierTransform.h"  "Dot Product/DotProduct.h")
 
 # TODO: Add tests and install targets if needed.

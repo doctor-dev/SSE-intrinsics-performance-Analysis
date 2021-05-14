@@ -32,7 +32,7 @@
 					]
 				}
 			],
-			"name" : "Debug",
+			"name" : "RelWithDebInfo",
 			"projects" : 
 			[
 				{
@@ -53,7 +53,7 @@
 				{
 					"directoryIndex" : 1,
 					"id" : "CMakeTarget::@03833f6309a3471f5d64",
-					"jsonFile" : "target-CMakeTarget-Debug-2cde72af71c3b76febe6.json",
+					"jsonFile" : "target-CMakeTarget-RelWithDebInfo-64d0149d33ce95ddab97.json",
 					"name" : "CMakeTarget",
 					"projectIndex" : 0
 				}
@@ -63,7 +63,7 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "D:/Projects/SSE-intrinsics-performance-Analysis/Analysis of SSE Intrinsiscs/out/build/x64-Debug",
+		"build" : "D:/Projects/SSE-intrinsics-performance-Analysis/Analysis of SSE Intrinsiscs/out/build/x64-Release",
 		"source" : "D:/Projects/SSE-intrinsics-performance-Analysis/Analysis of SSE Intrinsiscs"
 	},
 	"version" : 

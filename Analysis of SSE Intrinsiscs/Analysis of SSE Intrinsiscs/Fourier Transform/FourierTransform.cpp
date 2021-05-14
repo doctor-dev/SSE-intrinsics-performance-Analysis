@@ -3,5 +3,4 @@
 
 //Discrete Fourier Transform Algorithm
 
-void foo() {};
 
